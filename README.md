@@ -1,14 +1,12 @@
 # dashm8-citizen-frontend
----
-
-## 3. `dashm8-citizen-frontend`
+## 3. `mygene-citizen-dashboard`
 
 ```markdown
-# Dashm8 - Citizen Dashboard
+# myGENE - Citizen Dashboard
 
 **Status:** `Active Development` | **Version:** 1.0.0 | **License:** MIT
 
-This repository contains the source code for the user-facing **Dashm8** dashboard. This is the "Command Center" for the citizen, where they manage their myGENE Digital Twin, control permissions, view their data vault, and interact with the platform's advanced features.
+This repository contains the source code for the user-facing **myGENE Citizen Dashboard**. This is the "Command Center" for the citizen, where they manage their myGENE Digital Twin, control permissions, view their secure data vault, and interact with the platform's advanced features.
 
 ### Core Technologies
 * **Framework:** React (Vite)
@@ -27,8 +25,8 @@ This repository contains the source code for the user-facing **Dashm8** dashboar
 ### Setup & Installation
 ```bash
 # Clone the repository
-git clone [https://github.com/mygene-project/dashm8-citizen-frontend.git](https://github.com/mygene-project/dashm8-citizen-frontend.git)
-cd dashm8-citizen-frontend
+git clone [https://github.com/mygene-project/mygene-citizen-dashboard.git](https://github.com/mygene-project/mygene-citizen-dashboard.git)
+cd mygene-citizen-dashboard
 
 # Install dependencies
 npm install
